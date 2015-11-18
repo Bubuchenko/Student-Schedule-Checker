@@ -35,7 +35,7 @@
   <ItemGroup>
     <Reference Include="HtmlAgilityPack, Version=1.4.6.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\HtmlAgilityPack.dll</HintPath>
+      <HintPath>\\fsp01\beheer$\Leroy\Rooster zoeker\Student-Schedule-Checker-1.0\Student-Schedule-Checker\Student-Schedule-Checker\bin\Debug\HtmlAgilityPack.dll</HintPath>
     </Reference>
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />

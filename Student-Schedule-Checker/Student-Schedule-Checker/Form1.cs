@@ -28,6 +28,7 @@ namespace Student_Schedule_Checker
 
         private async Task<string> GetStudentClass(string studentnumber)
         {
+            await Task.Delay(0);
             try
             {
                 using (DirectoryEntry dir = new DirectoryEntry(LDAP_URL)) //Instantiate dir entry and pass the domain

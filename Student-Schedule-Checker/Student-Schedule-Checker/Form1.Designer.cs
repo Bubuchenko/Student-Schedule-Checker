@@ -56,7 +56,6 @@
             this.MinimumSize = new System.Drawing.Size(326, 111);
             this.Name = "Form1";
             this.Text = "MSA Rooster zoeker ";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
